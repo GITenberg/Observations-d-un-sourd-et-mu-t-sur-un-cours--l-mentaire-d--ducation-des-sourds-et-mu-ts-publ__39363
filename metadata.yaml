@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39988
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Desloges
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39363#Observations-d-un-sourd-et-mu-t-sur-un-cours--l-mentaire-d--ducation-des-sourds-et-mu-ts-publ_
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2012-04-03'
 gutenberg_type: Text
